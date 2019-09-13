@@ -4,4 +4,4 @@ An NLP application that parses and tags seminar emails for the purpose of extrac
 
 ## Project Dependencies
 - Google News Data set : https://github.com/mmihaltz/word2vec-GoogleNews-vectors (save to Models folder)
-- Spacy machine learning model : https://spacy.io/usage/models
+- Spacy ML model : https://spacy.io/usage/models
